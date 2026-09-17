@@ -2,6 +2,9 @@
 
 Aurela Web is a Spring Boot-based RESTful API powering the Aurela e-commerce platform. It handles user registration, product and order management, image uploads. Built with scalability and security in mind, it integrates seamlessly with third-party services Cloudinary.
 
+# Video Demo 
+
+https://drive.google.com/file/d/1nzpZrdS10HhF1Rut1DrCJ3ds5NDd8N9K/view?usp=sharing
 ---
 
 ## 🚀 Features
