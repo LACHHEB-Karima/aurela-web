@@ -28,7 +28,7 @@ Aurela Web is a Spring Boot-based RESTful API powering the Aurela e-commerce pla
 - **OpenAPI & Swagger UI** -for API documentation and testing
 
 ### 💾 Database & Persistence
-- **PostgreSQL** – primary relational database
+- **MySQL** – primary relational database
 - **Hibernate** – JPA provider
 
 ### ☁️ Cloud & Third-party Integration
@@ -53,5 +53,5 @@ Aurela Web is a Spring Boot-based RESTful API powering the Aurela e-commerce pla
 ### 📄 License
 - MIT
 ### 👤 Author
-- Developed by Karima
+- Developed by Karima LACHHEB
 
